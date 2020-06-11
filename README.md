@@ -38,3 +38,5 @@ make your work more productive but wait until you have a need for that.
 
 * [How to Download Video from Facebook](FacebookDownload)
 * [How to Upload to YouTube](YouTubeUpload)
+* [Project Priorities](Projects)
+
