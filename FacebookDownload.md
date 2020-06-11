@@ -4,14 +4,14 @@
 
 [Visit La Vina](https://www.facebook.com/lavinagreeley/videos/?ref=page_internal)
 
-Note the URL (eg. https://www.facebook.com/lavinagreeley/videos/1328463010677922)
+Note the URL (eg. [https://www.facebook.com/lavinagreeley/videos/1328463010677922](https://www.facebook.com/lavinagreeley/videos/1328463010677922))
 
 
 ## Change the URL to Mobile URL
 
 Replace "www" with "mbasic"
 
-Go to this page (https://mbasic.facebook.com/story.php?story_fbid=1328463010677922&id=110125287271848&_rdr)
+Go to this page [https://mbasic.facebook.com/story.php?story_fbid=1328463010677922&id=110125287271848&_rdr](https://mbasic.facebook.com/story.php?story_fbid=1328463010677922&id=110125287271848&_rdr)
 
 Right-click on video and open in new browser tab
 
