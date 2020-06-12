@@ -4,7 +4,7 @@ Greeley Vineyard Technology - tools and process for online church
 * [Edit This Page](https://github.com/Greeley-Vineyard/Greeley-Vineyard.github.io)
 * [Visit This Page](https://Greeley-Vineyard.github.io)
 * [Visit Church Website](https://greeleyvineyard.org)
-* [La Vina YouTube](https://www.youtube.com/playlist?list=PLH4QFmXWKGaFhKF7qyyQc9QX8HgZxWhY8)
+* [La Viña YouTube](https://www.youtube.com/playlist?list=PLH4QFmXWKGaFhKF7qyyQc9QX8HgZxWhY8)
 
 
 ## About this website
