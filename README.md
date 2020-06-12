@@ -1,6 +1,10 @@
 # Greeley Vineyard Technology Team
 Greeley Vineyard Technology - tools and process for online church
 
+* [Edit This Page](https://github.com/Greeley-Vineyard/Greeley-Vineyard.github.io)
+* [Visit This Page](Greeley-Vineyard.github.io)
+* [Visit Church Website](https://greeleyvineyard.org)
+
 ## About this website
 
 Coordinating the technology for an online church requires a great deal of communication. 
