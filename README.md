@@ -40,7 +40,7 @@ make your work more productive but wait until you have a need for that.
 
 ## Tutorials
 
-* [How to Download Video from Facebook](FacebookDownload)
-* [How to Upload to YouTube](YouTubeUpload)
-* [Project Priorities](Projects)
+* [How to Download Video from Facebook](FacebookDownload.md)
+* [How to Upload to YouTube](YouTubeUpload.md)
+* [Project Priorities](Projects.md)
 
