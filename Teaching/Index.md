@@ -2,6 +2,15 @@
 
 ## Acts Sermon Series
 
+As we walk through the book of Acts we will learn about what life was like in the
+early church.  The lives of the first disciples were filled with turmoil and conflict 
+from outside and inside the church.
+
+Yet through it all God shaped a group of people that would change the world. Perhaps
+God is doing something similar in our day.  Let's explore the life of the early
+church and learn about how we can cope with the confusion of our time.
+
+
 ![](../img/Acts.jpg)
 
 * [Week 1 - Acts 1:8 - Get Empowered - May 17, 2020](2020-05-17)
