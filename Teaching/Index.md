@@ -1,6 +1,11 @@
 # Greeley Vineyard Teaching
 
+
+
+
 ## Acts Sermon Series
+
+![](img/Acts.jpg)
 
 * [Week 1 - Acts 1:8 - Get Empowered - May 17, 2020](2020-05-17)
 * [Week 2 - Act 2 - What it means to be Christian - May 24, 2020](2020-05-24)
