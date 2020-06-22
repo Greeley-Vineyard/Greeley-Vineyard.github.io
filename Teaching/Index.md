@@ -18,4 +18,5 @@ church and learn about how we can cope with the confusion of our time.
 * [Week 3 - Act 2 - Pentecost - May 31, 2020](2020-05-31)
 * [Week 4 - Act 5 - Hypocrisy - June 7, 2020](2020-06-07)
 * [Week 5 - Philipians 2 - Unity - June 14, 2020](2020-06-14)
+* [Week 5 - Acts 3-11 - Persecution - June 21, 2020](2020-06-21)
 
