@@ -17,6 +17,12 @@ church and learn about how we can cope with the confusion of our time.
 * [Week 2 - Act 2 - What it means to be Christian - May 24, 2020](2020-05-24)
 * [Week 3 - Act 2 - Pentecost - May 31, 2020](2020-05-31)
 * [Week 4 - Act 5 - Hypocrisy - June 7, 2020](2020-06-07)
-* [Week 5 - Philipians 2 - Unity - June 14, 2020](2020-06-14)
-* [Week 5 - Acts 3-11 - Persecution - June 21, 2020](2020-06-21)
+* [Week 5 - Philippians 2 - Unity - June 14, 2020](2020-06-14)
+* [Week 6 - Acts 3-11 - Persecution - June 21, 2020](2020-06-21)
+* [Week 7 - Acts 13 - Church Leaders - June 28, 2020](2020-06-28)
 
+## Emotionally Healthy Relationships
+
+* [Week 1 - Emotional Health - Todd Beilman - July 12, 2020](2020-07-12)
+* [Week 2 - Mind Reading - Jenny Beilman - July 19, 2020](2020-07-19)
+* [Week 3 - False Expectations - Jose Peña - July 26, 2020](2020-07-26)
